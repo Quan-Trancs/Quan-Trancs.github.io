@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Hotels.xsd">
+<Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/Quan-Trancs/Quan-Trancs.github.io/refs/heads/main/Hotels.xsd">
     <Hotel Rating="4.2">
         <Name>Westin Tempe</Name>
         <Phone>800-937-8461</Phone>
