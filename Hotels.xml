@@ -49,8 +49,8 @@
         <Name>Residence Inn by Marriott Phoenix Downtown</Name>
         <Phone>602-258-7878</Phone>
         <Address NearstAirport="Sky Harbor">
-            <Number>132 S. Central Ave</Number>
-            <Street>Phoenix</Street>
+            <Number>132</Number>
+            <Street>S. Central Ave</Street>
             <City>Phoenix</City>
             <State>AZ</State>
             <Zip>85004</Zip>
@@ -60,8 +60,8 @@
         <Name>Renaissance Phoenix Downtown</Name>
         <Phone>602-333-0000</Phone>
         <Address NearstAirport="Sky Harbor International">
-            <Number>100 N. 1st Ave</Number>
-            <Street>Phoenix</Street>
+            <Number>100</Number>
+            <Street>N. 1st Ave</Street>
             <City>Phoenix</City>
             <State>AZ</State>
             <Zip>85003</Zip>
@@ -71,8 +71,8 @@
         <Name>JW Marriott Phoenix Desert Ridge Resort &amp; Spa</Name>
         <Phone>480-293-5000</Phone>
         <Address NearstAirport="Sky Harbor International">
-            <Number>5350 E. Marriott Dr</Number>
-            <Street>Phoenix</Street>
+            <Number>5350</Number>
+            <Street>E. Marriott Dr</Street>
             <City>Phoenix</City>
             <State>AZ</State>
             <Zip>85054</Zip>
@@ -93,8 +93,8 @@
         <Name>The Scottsdale Resort at McCormick Ranch</Name>
         <Phone>480-991-9000</Phone>
         <Address NearstAirport="Phoenix Sky Harbor">
-            <Number>7700 E. McCormick Pkwy</Number>
-            <Street>Scottsdale</Street>
+            <Number>7700</Number>
+            <Street>E. McCormick Pkwy</Street>
             <City>Scottsdale</City>
             <State>AZ</State>
             <Zip>85258</Zip>
@@ -104,8 +104,8 @@
         <Name>W Scottsdale</Name>
         <Phone>480-970-2100</Phone>
         <Address NearstAirport="Phoenix Sky Harbor International">
-            <Number>7277 E. Camelback Rd</Number>
-            <Street>Scottsdale</Street>
+            <Number>7277</Number>
+            <Street>E. Camelback Rd</Street>
             <City>Scottsdale</City>
             <State>AZ</State>
             <Zip>85251</Zip>
